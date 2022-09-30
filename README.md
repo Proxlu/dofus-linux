@@ -12,7 +12,7 @@ Adições/correções:
 NB: O script deve ser reiniciado após cada atualização!
 
 ##  Uso
-###  Vinho
+###  Wine
 - copie o script no diretório do jogo, por padrão: ~/.config/Ankama/zaap/dofus (ctrl+h para ver arquivos ocultos)
 - abra um terminal e execute ```./dofus-linux.sh configure```
 - espere e feche o jogo
