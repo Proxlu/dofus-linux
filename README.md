@@ -1,4 +1,4 @@
-#Dofus  Linux
+#Dofus Linux (fixed and updated)
 ##  Wineprefix autônomo
 
 O script usa a versão Wine do Lutris, que inclui os patches de prótons da Valve, bem como outras correções criadas pela comunidade.
